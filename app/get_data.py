@@ -1,6 +1,5 @@
 # This document is for getting the data, converting to a CSV file and storing it in 'data/raw'.
-
-""" Connect to google sheets """
+## Connect to google sheets
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
